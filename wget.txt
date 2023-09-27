@@ -1,0 +1,1 @@
+wget https://github.com/zhaodice/proxmox-ve-anti-detection/releases/download/8.0.2/pve-qemu-kvm_8.0.2-3_amd64.deb
