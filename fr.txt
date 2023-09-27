@@ -1,0 +1,2 @@
+mv /etc/apt/sources.list /etc/apt/sources.list.deleted
+mv /etc/apt/sources.list.d/pve-enterprise.list /etc/apt/sources.list.d/pve-enterprise.list.deleted
